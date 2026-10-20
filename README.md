@@ -32,5 +32,5 @@ The code of the Laraplate repositories is licensed separately (AGPL-3.0, see eac
 ## Using a logo in a README
 
 ```html
-<img src="https://raw.githubusercontent.com/getlaraplate/laraplate-brand/main/logos/blueprint/core.svg" width="160" alt="LaraCore">
+<img src="https://raw.githubusercontent.com/getlaraplate/brand/main/logos/blueprint/core.svg" width="160" alt="LaraCore">
 ```
